@@ -44,8 +44,8 @@ class BankAdmin(admin.ModelAdmin):
 
 
 ## OUTPUT
+![Screenshot 2024-11-15 081958](https://github.com/user-attachments/assets/aff5247e-b4d3-47bb-a4cc-079434559ef8)
 
-![alt text](<../Screenshot 2024-11-15 081958.png>)
 
 
 
