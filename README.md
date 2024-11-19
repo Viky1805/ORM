@@ -1,11 +1,12 @@
-# Ex02 Django ORM Web Application
+![New Project 19  2E923AA](https://github.com/user-attachments/assets/3891c771-0bb9-4014-bad4-fbf7208d5625)# Ex02 Django ORM Web Application
 ## Date: 14/11/2024 
 
 ## AIM
 To develop a Django application to store and retrieve data from a Bank database using Object Relational Mapping(ORM).
 
 ## Entity Relationship Diagram
-![alt text](<../New Project 19 [2E923AA].png>)
+![New Project 19  2E923AA](https://github.com/user-attachments/assets/f639e8c6-d27b-4c5a-b84c-2e055f7c4e0b)
+
 
 
 ## DESIGN STEPS
@@ -45,6 +46,7 @@ class BankAdmin(admin.ModelAdmin):
 ## OUTPUT
 
 ![alt text](<../Screenshot 2024-11-15 081958.png>)
+
 
 
 ## RESULT
