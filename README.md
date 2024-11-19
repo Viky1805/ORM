@@ -1,4 +1,4 @@
-![New Project 19  2E923AA](https://github.com/user-attachments/assets/3891c771-0bb9-4014-bad4-fbf7208d5625)# Ex02 Django ORM Web Application
+Ex02 Django ORM Web Application
 ## Date: 14/11/2024 
 
 ## AIM
